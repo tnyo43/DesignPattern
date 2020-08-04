@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val bookShelf = BookShelf();
     bookShelf.appendBook(Book("Momo Taro"));
     bookShelf.appendBook(Book("Urashima Taro"));

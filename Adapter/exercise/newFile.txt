@@ -1,0 +1,6 @@
+#written by FileProperty
+#Tue Aug 04 16:52:04 JST 2020
+heisei=12
+month=8
+year=2020
+day=4
